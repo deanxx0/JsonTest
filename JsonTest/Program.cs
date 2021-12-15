@@ -7,6 +7,8 @@ namespace JsonTest
     {
         static void Main(string[] args)
         {
+            // git test
+
             //var user = new User
             //{
             //    Id = "user id",
